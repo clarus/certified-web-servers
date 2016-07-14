@@ -1,4 +1,4 @@
-# Certifier web servers
+# Certified web servers
 > A study about certified web servers.
 
 ## Parsing
